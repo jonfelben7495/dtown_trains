@@ -4163,6 +4163,10 @@ var u73 = {
         "type": "LineString",
         "coordinates": [
           [
+            6.794309020042419,
+            51.2291739601541
+          ],
+          [
             6.794583,
             51.2292387
           ],
@@ -5696,26 +5700,6 @@ var u73 = {
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "startYear": "2016",
-        "endYear": "2019",
-        "@id": "way/403025491",
-        "electrified": "contact_line",
-        "frequency": "0",
-        "gauge": "1435",
-        "layer": "-3",
-        "level": "-2",
-        "oneway": "yes",
-        "operator": "Rheinbahn",
-        "railway": "light_rail",
-        "railway:track_ref": "2",
-        "tunnel": "yes",
-        "voltage": "750"
-        // Tunnelpassage (Richtung Gerresheim) der Linie U73 seit der Eröffnung der Wehrhahn-Linie im Jahr 2016.
-      },
     },
     {
       "type": "Feature",
